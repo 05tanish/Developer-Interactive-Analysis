@@ -1,0 +1,33 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# OS & Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / Junk files
+..csv
+
+# Secrets & Environment variables
+.env
+.env.*
