@@ -27,6 +27,7 @@ Thumbs.db
 
 # Temporary / Junk files
 ..csv
+2.csv
 
 # Secrets & Environment variables
 .env
